@@ -1,0 +1,194 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nikant.ml" resolutions="1x" timestamp="1620111470474">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_______-a.css" crc="3832072607" ref="мой-шпион:текст:притяжение:беспринципные:стрельцов"/>
+    <file name="master_______-b.css" crc="3929175850" ref="index"/>
+    <file name="___-_____.css" crc="226853578" ref="мой-шпион"/>
+    <file name="_____.css" crc="4131665891" ref="текст"/>
+    <file name="__________.css" crc="4131665891" ref="притяжение"/>
+    <file name="_____________.css" crc="4241610802" ref="беспринципные"/>
+    <file name="_________.css" crc="4131665891" ref="стрельцов"/>
+    <file name="index.css" crc="208215852" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="anyconv.com__sfuidisplay-semibold.woff" crc="506136043"/>
+    <file name="anyconv.com__sfuidisplay-semibold.eot" crc="43721167"/>
+    <file name="anyconv.com__sfuidisplay-semibold.svg" crc="211184939"/>
+    <file name="anyconv.com__sfuidisplay-regular.woff" crc="76504623"/>
+    <file name="anyconv.com__sfuidisplay-regular.eot" crc="3899147739"/>
+    <file name="anyconv.com__sfuidisplay-regular.svg" crc="4249269987"/>
+    <file name="anyconv.com__sfuidisplay-bold.woff" crc="4035192212"/>
+    <file name="anyconv.com__sfuidisplay-bold.eot" crc="337319590"/>
+    <file name="anyconv.com__sfuidisplay-bold.svg" crc="4250004944"/>
+  </folder>
+  <folder name="assets">
+    <file name="scale_1200.webp" crc="208544152" seo="true" mt="1605535612000"/>
+    <file name="загрузка.gif" crc="108920641" seo="true" mt="1605900042000"/>
+    <file name="fbf99289e8c1a22ee95ae6d2fb8ec4ea.1080.mp4" crc="130035428" seo="true" mt="1609497141000"/>
+    <file name="info.html" crc="218058277" seo="true" mt="1609498181000"/>
+    <file name="fbf99289e8c1a22ee95ae6d2fb8ec4ea.480.webm" crc="143966608" seo="true" mt="1609497002000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>мой-шпион:phone>без-имени-3:phone>притяжение:phone>текст:phone>стрельцов:index:мой-шпион:беспринципные:стрельцов:притяжение:текст:phone>подборки:phone>события:phone>приложение:phone>кино:phone>диагностика"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>мой-шпион:phone>без-имени-3:phone>притяжение:phone>текст:phone>стрельцов:index:мой-шпион:беспринципные:стрельцов:притяжение:текст:phone>подборки:phone>события:phone>приложение:phone>кино:phone>диагностика"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>мой-шпион:phone>без-имени-3:phone>притяжение:phone>текст:phone>стрельцов:index:мой-шпион:беспринципные:стрельцов:притяжение:текст:phone>подборки:phone>события:phone>приложение:phone>кино:phone>диагностика"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>мой-шпион:phone>без-имени-3:phone>притяжение:phone>текст:phone>стрельцов:index:мой-шпион:беспринципные:стрельцов:притяжение:текст:phone>подборки:phone>события:phone>приложение:phone>кино:phone>диагностика"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:phone>без-имени-3:index:мой-шпион:беспринципные"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:phone>мой-шпион:phone>притяжение:phone>текст:phone>стрельцов"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:phone>мой-шпион:phone>притяжение:phone>текст:phone>стрельцов"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:phone>мой-шпион:phone>притяжение:phone>текст:phone>стрельцов"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:phone>мой-шпион:phone>притяжение:phone>текст:phone>стрельцов"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>мой-шпион:phone>без-имени-3:phone>притяжение:phone>текст:phone>стрельцов:index:мой-шпион:беспринципные:стрельцов:притяжение:текст:phone>подборки:phone>события:phone>приложение:phone>кино:phone>диагностика"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:phone>мой-шпион:phone>притяжение:phone>текст:phone>стрельцов:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>мой-шпион:phone>без-имени-3:phone>притяжение:phone>текст:phone>стрельцов:index:мой-шпион:беспринципные:стрельцов:притяжение:текст:phone>подборки:phone>события:phone>приложение:phone>кино:phone>диагностика"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="3802262946" ref="phone>index"/>
+    <file name="maxresdefault-u1877-fr.jpg" crc="4283364901" ref="phone>index"/>
+    <file name="8ddfdbf291450eda16e8d5fc17782163-u1944-fr.jpg" crc="4047363013" ref="phone>index"/>
+    <file name="b858b0b2634fe00a6126e9983fb269e8-u1950-fr.jpg" crc="4176954172" ref="phone>index"/>
+    <file name="e6814287a498a2424476a02da4ce9f2f-u1956-fr.jpg" crc="3770271178" ref="phone>index"/>
+    <file name="maxresdefault-u1026-fr.jpg" crc="4261694635" ref="phone>index:phone>без-имени-3"/>
+    <file name="8ddfdbf291450eda16e8d5fc17782163-u1799-fr.jpg" crc="3845448" ref="phone>index"/>
+    <file name="b858b0b2634fe00a6126e9983fb269e8-u1814-fr.jpg" crc="3826953086" ref="phone>index"/>
+    <file name="e6814287a498a2424476a02da4ce9f2f-u1829-fr.jpg" crc="4235131545" ref="phone>index"/>
+    <file name="лого проз.png" crc="125911847" seo="true" ref="phone>index:phone>мой-шпион:phone>без-имени-3:phone>притяжение:phone>текст:phone>стрельцов:index:мой-шпион:беспринципные:стрельцов:притяжение:текст:phone>подборки:phone>события:phone>приложение:phone>кино:phone>диагностика">
+      <caption webpage="диагностика" alt=""/>
+      <caption webpage="мой-шпион" alt=""/>
+      <caption webpage="мой-шпион" alt=""/>
+      <caption webpage="мой-шпион" alt=""/>
+      <caption webpage="события" alt=""/>
+      <caption webpage="текст" alt=""/>
+      <caption webpage="текст" alt=""/>
+      <caption webpage="текст" alt=""/>
+      <caption webpage="подборки" alt=""/>
+      <caption webpage="притяжение" alt=""/>
+      <caption webpage="притяжение" alt=""/>
+      <caption webpage="притяжение" alt=""/>
+      <caption webpage="стрельцов" alt=""/>
+      <caption webpage="стрельцов" alt=""/>
+      <caption webpage="стрельцов" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="без-имени-3" alt=""/>
+      <caption webpage="беспринципные" alt=""/>
+      <caption webpage="беспринципные" alt=""/>
+      <caption webpage="кино" alt=""/>
+      <caption webpage="приложение" alt=""/>
+    </file>
+    <file name="183_208184208188208181208189208184-1.svg" crc="3872882394" seo="true" ref="phone>мой-шпион">
+      <caption webpage="мой-шпион" alt=""/>
+    </file>
+    <file name="183_208184208188208181208189208184-1_poster_.png" crc="3884089398" ref="phone>мой-шпион"/>
+    <file name="arrow-down-sign-to-navigate-(2).svg" crc="341846756" seo="true" ref="phone>мой-шпион:phone>притяжение:phone>текст:phone>стрельцов">
+      <caption webpage="мой-шпион" alt=""/>
+      <caption webpage="текст" alt=""/>
+      <caption webpage="притяжение" alt=""/>
+      <caption webpage="стрельцов" alt=""/>
+    </file>
+    <file name="arrow-down-sign-to-navigate (2)_poster_.png" crc="3793698602" ref="phone>мой-шпион"/>
+    <file name="притяжение.jpg" crc="505874391" seo="true" ref="phone>притяжение">
+      <caption webpage="притяжение" alt=""/>
+    </file>
+    <file name="текст.jpg" crc="471227140" seo="true" ref="phone>текст">
+      <caption webpage="текст" alt=""/>
+    </file>
+    <file name="стрельцов.jpg" crc="4163373069" seo="true" ref="phone>стрельцов">
+      <caption webpage="стрельцов" alt=""/>
+    </file>
+    <file name="o0b8bq72xt2s1ijqorfghn2qtrd-buttonu2399-fr.jpg" crc="4166701378" ref="index"/>
+    <file name="maxresdefault-buttonu2369-fr.jpg" crc="4015169206" ref="index"/>
+    <file name="8ddfdbf291450eda16e8d5fc17782163-buttonu2390-fr.jpg" crc="3835646851" ref="index"/>
+    <file name="e6814287a498a2424476a02da4ce9f2f-buttonu2430-fr.jpg" crc="392204725" ref="index"/>
+    <file name="b858b0b2634fe00a6126e9983fb269e8-buttonu2439-fr.jpg" crc="240811722" ref="index"/>
+    <file name="clock.svg" crc="4263244528" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="clock_poster_.png" crc="4209777364" ref="index"/>
+    <file name="orig.png" crc="87030667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="info.png" crc="4237954794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="мой шпион блюр.jpg" crc="363670544" ref="мой-шпион:беспринципные">
+      <caption webpage="мой-шпион" alt=""/>
+    </file>
+    <file name="ead6df4f6d86a065dc618d87437e11e0.jpg" crc="4159878764" ref="мой-шпион:беспринципные">
+      <caption webpage="мой-шпион" alt=""/>
+      <caption webpage="беспринципные" alt=""/>
+    </file>
+    <file name="подборки-png.svg" crc="4253806697" seo="true" ref="phone>index:phone>события">
+      <caption webpage="index" alt=""/>
+      <caption webpage="события" alt=""/>
+    </file>
+    <file name="подборки png_poster_.png" crc="4154494083" ref="phone>index"/>
+    <file name="рекомендации-актpng.svg" crc="4182435249" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="рекомендации актpng_poster_.png" crc="3807588972" ref="phone>index"/>
+    <file name="поискpng.svg" crc="4290381520" seo="true" ref="phone>index:phone>события">
+      <caption webpage="index" alt=""/>
+      <caption webpage="события" alt=""/>
+    </file>
+    <file name="поискpng_poster_.png" crc="511397218" ref="phone>index"/>
+    <file name="инфоpng.svg" crc="4205903371" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="инфоpng_poster_.png" crc="242526772" ref="phone>index"/>
+    <file name="popcorn.svg" crc="4147897220" seo="true" ref="phone>события">
+      <caption webpage="события" alt=""/>
+    </file>
+    <file name="popcorn_poster_.png" crc="425175807" ref="phone>события"/>
+    <file name="fire_perspective_matte.png" crc="220086221" seo="true" ref="phone>события:phone>приложение">
+      <caption webpage="события" alt=""/>
+      <caption webpage="приложение" alt=""/>
+    </file>
+    <file name="tools_perspective_matte.png" crc="82863112" seo="true" ref="phone>события">
+      <caption webpage="события" alt=""/>
+    </file>
+    <file name="рекомендацииpng.svg" crc="3794757225" seo="true" ref="phone>события">
+      <caption webpage="события" alt=""/>
+    </file>
+    <file name="рекомендацииpng_poster_.png" crc="536584191" ref="phone>события"/>
+    <file name="инфо-актpng.svg" crc="266816964" seo="true" ref="phone>события">
+      <caption webpage="события" alt=""/>
+    </file>
+    <file name="инфо актpng_poster_.png" crc="458683113" ref="phone>события"/>
+    <file name="multiply circle fill.png" crc="4276286992" seo="true" ref="phone>приложение">
+      <caption webpage="приложение" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_______-a.css" crc="4188615979" ref="phone>притяжение:phone>без-имени-3:phone>стрельцов:phone>мой-шпион:phone>текст:phone>index:phone>события:phone>приложение:phone>кино:phone>диагностика:phone>подборки"/>
+      <file name="__________.css" crc="454419962" ref="phone>приложение"/>
+      <file name="___-_____-3.css" crc="62052242" ref="phone>без-имени-3"/>
+      <file name="_________.css" crc="241000831" ref="phone>стрельцов"/>
+      <file name="___-_____.css" crc="4021511159" ref="phone>мой-шпион"/>
+      <file name="_____.css" crc="4158911640" ref="phone>текст"/>
+      <file name="index.css" crc="3839019097" ref="phone>index"/>
+      <file name="_______.css" crc="276624288" ref="phone>события"/>
+      <file name="____.css" crc="24216856" ref="phone>кино"/>
+      <file name="___________.css" crc="24216856" ref="phone>диагностика"/>
+      <file name="________.css" crc="24216856" ref="phone>подборки"/>
+      <file name="__________1.css" crc="135184419" ref="phone>притяжение"/>
+    </folder>
+    <file name="index.html" crc="463059562" seo="true" mt="1618171417402" redirect="true"/>
+    <file name="мой-шпион.html" crc="40322997" seo="true" mt="1610541758817" redirect="true"/>
+    <file name="без-имени-3.html" crc="4050841542" seo="true" mt="1610545419121" redirect="true"/>
+    <file name="притяжение.html" crc="4189124304" seo="true" mt="1610541758817" redirect="true"/>
+    <file name="текст.html" crc="3766547154" seo="true" mt="1610541758817" redirect="true"/>
+    <file name="стрельцов.html" crc="3886797126" seo="true" mt="1610541758817" redirect="true"/>
+    <file name="подборки.html" crc="4267758962" seo="true" mt="1618155320663" redirect="true"/>
+    <file name="события.html" crc="383276084" seo="true" mt="1618171199868" redirect="true"/>
+    <file name="приложение.html" crc="467642634" seo="true" mt="1618170845214" redirect="true"/>
+    <file name="кино.html" crc="4016741104" seo="true" mt="1618169330140" redirect="true"/>
+    <file name="диагностика.html" crc="116760840" seo="true" mt="1618169339279" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="514650131" seo="true" mt="1617550464788" redirect="true"/>
+  <file name="мой-шпион.html" crc="328180117" seo="true" mt="1606755839494" redirect="true"/>
+  <file name="беспринципные.html" crc="4032585084" seo="true" mt="1609503332415" redirect="true"/>
+  <file name="стрельцов.html" crc="4084393209" seo="true" mt="1609503287557" redirect="true"/>
+  <file name="притяжение.html" crc="304139667" seo="true" mt="1609503297539" redirect="true"/>
+  <file name="текст.html" crc="4136264820" seo="true" mt="1609503306403" redirect="true"/>
+</manifest>

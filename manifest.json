@@ -1,0 +1,67 @@
+{
+    "name": "Cinema",
+    "short_name": "Cinema",
+    "icons": [
+        {
+            "sizes": "114x114",
+            "src": "https://raw.githubusercontent.com/nikantcorp/nikantcorp.github.io/main/ico/114x114.png"
+        },
+        {
+            "sizes": "120x120",
+            "src": "https://raw.githubusercontent.com/nikantcorp/nikantcorp.github.io/main/ico/120x120.png"
+        },
+        {
+            "sizes": "144x144",
+            "src": "https://raw.githubusercontent.com/nikantcorp/nikantcorp.github.io/main/ico/144x144.png"
+        },
+        {
+            "sizes": "152x152",
+            "src": "https://raw.githubusercontent.com/nikantcorp/nikantcorp.github.io/main/ico/152x152.png"
+        },
+        {
+            "sizes": "180x180",
+            "src": "https://raw.githubusercontent.com/nikantcorp/nikantcorp.github.io/main/ico/180x180.png"
+        },
+        {
+            "sizes": "57x57",
+            "src": "https://raw.githubusercontent.com/nikantcorp/nikantcorp.github.io/main/ico/57x57.png"
+        },
+        {
+            "sizes": "60x60",
+            "src": "https://raw.githubusercontent.com/nikantcorp/nikantcorp.github.io/main/ico/60x60.png"
+        },
+        {
+            "sizes": "72x72",
+            "src": "https://raw.githubusercontent.com/nikantcorp/nikantcorp.github.io/main/ico/72x72.png"
+        },
+        {
+            "sizes": "76x76",
+            "src": "https://raw.githubusercontent.com/nikantcorp/nikantcorp.github.io/main/ico/76x76.png"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/nikantcorp/nikantcorp.github.io/main/ico/192x192.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://raw.githubusercontent.com/nikantcorp/nikantcorp.github.io/main/ico/512x512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "prefer_related_applications": true,
+    "related_applications": [
+        {
+            "platform": "play",
+            "url": "https://play.google.com/store/apps/details?id=com.github.android",
+            "id": "com.github.android"
+        }
+    ],
+    "background_color": "",
+    "url": "https://github.com/nikantcorp/nikantcorp.github.io.git",
+    "manifestUrl": "https://github.com/manifest.json",
+    "lang": "ru",
+    "start_url": "https://nikantcorp.github.io",
+    "display": "standalone",
+    "orientation": "portrait"
+}
